@@ -10,6 +10,19 @@ Version **control** is an essential skill for _developers_ to master, and ~~Git~
 
 https://linkedin.com
 
+This is a footnote [^1]. Another footnote[^2].
+
+[^1]: My reference
+[^2]: Another footnote
+
+| Left | Center | right|
+|------|--------|------|
+| One  | Two    | $1.00|
+| Three| Four   | $120 |
+
+
+- 
+
 ```js
 let x = 5;
 console.log(x);
@@ -24,3 +37,4 @@ console.log(x);
   - Another one
 
   [![Tomopor](https://pixelprowess.com/i/stargazers/tomolor.png)](https://raybo.org)
+
