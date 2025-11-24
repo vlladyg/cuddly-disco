@@ -20,6 +20,7 @@ This is a footnote [^1]. Another footnote[^2].
 | One  | Two    | $1.00|
 | Three| Four   | $120 |
 
+Some comment
 
 - 
 
@@ -38,3 +39,4 @@ console.log(x);
 
   [![Tomopor](https://pixelprowess.com/i/stargazers/tomolor.png)](https://raybo.org)
 
+Hey man!
